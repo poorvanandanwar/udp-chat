@@ -17,8 +17,10 @@ Running the chat application:
 server.exe
 
 2. Start clients, can start multiple clients on different terminals,
-and run: 
+and run:
+
 client.exe
+
 Enter name and the chat begins.
 
 To exit client or shutdown server:
